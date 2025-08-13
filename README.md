@@ -2,7 +2,7 @@
 Business Sales Dashboard using Power BI for E-commerce Sales Analysis (Future Interns Task 1)
 
 ## 📊 Task 1: Business Sales Dashboard  
-Internship Track: Data Science & Analytics – Future Interns
+Internship Track: Data Science & Analytics 
 
 ### ✅ Objective:
 Build a Power BI dashboard to answer key business questions:
@@ -37,4 +37,4 @@ Build a Power BI dashboard to answer key business questions:
 
 ---
 
-## ✅ Submission by: *TUSHAR KUMAR SHARIYA*  
+
